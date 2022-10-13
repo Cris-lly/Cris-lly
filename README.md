@@ -6,7 +6,7 @@
 
 ## Sobre mim 
 - 👋 Olá pessoal, Eu me chamo Cristiane, meu nickname é @Cris-lly, moro no Ceará <br> e sou uma aspirante pela tecnologia!</li>
-- 🔭 Atualmente estou trabalhando em desenvolvimento de software na empresa <br> ETICE-Empresa de Tecnologia da Informação do Ceará
+- 🔭 Atualmente estou estagiando em desenvolvimento de software na empresa <br> ETICE-Empresa de Tecnologia da Informação do Ceará
   e me graduando em <br> Ciência da Computação pela Universidade Estadual do Ceará- UECE 
 - 🌱 Atualmente estou aprendendo desenvolvimento web 
 - ⚡ Curiosidade: Amo música, Jogos e todo universo da tecnologia 
@@ -14,7 +14,7 @@
 
 ## Ferramentas e tecnologias <img src="https://user-images.githubusercontent.com/86075123/195196041-13928df7-2095-4ff5-b5fd-542809ea5cdf.gif" width="60" height="60" hspace="15"  />
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="15"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"  hspace="15"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="15"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" hspace="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" hspace="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"  />
 
 </div>          
 <div align="center">
