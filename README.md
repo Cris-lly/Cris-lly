@@ -8,7 +8,7 @@
 - 👋 Olá pessoal, Eu me chamo Cristiane, meu nickname é @Cris-lly, moro no Ceará <br> e sou uma aspirante pela tecnologia!</li>
 - 🔭 Atualmente estou estagiando em desenvolvimento de software na empresa <br> ETICE-Empresa de Tecnologia da Informação do Ceará
   e me graduando em <br> Ciência da Computação pela Universidade Estadual do Ceará- UECE 
-- 🌱 Atualmente estou aprendendo desenvolvimento web 
+- 🌱 Também estou aprendendo desenvolvimento web 
 - ⚡ Curiosidade: Amo música, Jogos e todo universo da tecnologia 
 
 
