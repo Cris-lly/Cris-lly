@@ -1,30 +1,29 @@
 <h1> Cristiane Kelly</h1>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/86075123/195182571-06f0c6d4-b369-4b03-814b-e51db6f1e6fe.jpg">
-</div>
-
+<img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/47b81e22-6dbc-4d84-a26f-ced82f19ec08.gif">
 
 ## Sobre mim 
-- 👋 Olá pessoal, Eu me chamo Cristiane, meu nickname é @Cris-lly, moro no Ceará <br> e sou uma aspirante pela tecnologia!</li>
-- 🔭 Atualmente estou estagiando em desenvolvimento de software na empresa <br> ETICE-Empresa de Tecnologia da Informação do Ceará
-  e me graduando em <br> Ciência da Computação pela Universidade Estadual do Ceará- UECE 
-- 🌱 Também estou aprendendo desenvolvimento web 
-- ⚡ Curiosidade: Amo música, Jogos e todo universo da tecnologia 
-
-
-## Ferramentas e tecnologias <img src="https://user-images.githubusercontent.com/86075123/195196041-13928df7-2095-4ff5-b5fd-542809ea5cdf.gif" width="60" height="60" hspace="15"  />
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40"/>
-          
-          
-
-</div>          
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kelly-silva/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cris-lly)
+<img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/dbcbf06e-f65d-4b45-8538-5408d70eb969.png">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/86075123/195189935-27e9534e-ea70-4019-af68-28011b6a030b.png" width="250" height="250" >
 </div>
-          
-![Snake animation](https://github.com/Cris-lly/Cris-lly/blob/output/github-contribution-grid-snake.svg)
-<!---
-Cris-lly/Cris-lly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Ferramentas e tecnologias
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="40" height="40"/>
+
+</div>          
+
