@@ -1,10 +1,10 @@
 <h1> Cristiane Kelly</h1>
-<img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/47b81e22-6dbc-4d84-a26f-ced82f19ec08.gif">
+<img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/153ed42b-8c2d-44ac-8117-0ca0936a2bbd.gif">
 
 ## Sobre mim 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kelly-silva/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cris-lly)
-<img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/dbcbf06e-f65d-4b45-8538-5408d70eb969.png">
+<img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/58989191-8ac9-4a7d-9f1b-73f9413f0453.png">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/86075123/195189935-27e9534e-ea70-4019-af68-28011b6a030b.png" width="250" height="250" >
 </div>
