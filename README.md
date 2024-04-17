@@ -4,7 +4,7 @@
 ## Sobre mim 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiane-kelly-silva/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cris-lly)
-[![Blog](	https://img.shields.io/badge/SimpleWebPortfolio-000?style=for-the-badge&logo=SimplePortfolio&logoColor=white)](cris-lly.github.io/Portfolio-simples/)
+[![Blog](	https://img.shields.io/badge/SimpleWebPortfolio-000?style=for-the-badge&logo=SimplePortfolio&logoColor=white)](https://cris-lly.github.io/Portfolio-simples/)
 <img src="https://github.com/Cris-lly/Cris-lly/assets/86075123/b36a3d42-e854-4180-85c4-dd90368bf4bb.png">
 <div align="center">
   <img src="https://user-images.githubusercontent.com/86075123/195189935-27e9534e-ea70-4019-af68-28011b6a030b.png" width="250" height="250" >
